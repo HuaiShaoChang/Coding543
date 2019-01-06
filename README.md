@@ -2,7 +2,7 @@
 Murmur or note from my coding life.
 
 ## Tips
-### Linux(Debian)
+### Linux(I'm using Debian.)
 - 搜尋指令/檔案的 package：`dpkg-query --search <filename or fullpath>`, `dpkg-query -S <command>` for short.
 <br />![](https://i.imgur.com/r8nKzhE.png)
 
