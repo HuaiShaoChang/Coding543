@@ -3,6 +3,16 @@ Murmur or note from my coding life.
 
 ## Tips
 ### Linux(I'm using Debian.)
+#### Newbie
+- 查詢指令資訊：`type <command>`
+<br />![](https://i.imgur.com/nZB4RAx.png)
+- 查詢 shell 內建(builtin)指令：`help <command>`
+<br />![](https://i.imgur.com/ko3E7wb.png)
+- 查詢檔案類型：`file <filename>`
+<br />![](https://i.imgur.com/q1EsUYR.png)
+- man page 懶人包：`whatis <command>`
+<br />![](https://i.imgur.com/2ckWctW.png)
+#### Novice
 - 搜尋指令/檔案的 package：`dpkg-query --search <filename or fullpath>`, `dpkg-query -S <command>` for short.
 <br />![](https://i.imgur.com/r8nKzhE.png)
 
