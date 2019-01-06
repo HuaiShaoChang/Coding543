@@ -12,7 +12,7 @@ Murmur or note from my coding life.
 <br />![](https://i.imgur.com/q1EsUYR.png)
 - man page 懶人包：`whatis <command>`
 <br />![](https://i.imgur.com/2ckWctW.png)
-#### Novice
+#### Beginner
 - 搜尋指令/檔案的 package：`dpkg-query --search <filename or fullpath>`, `dpkg-query -S <command>` for short.
 <br />![](https://i.imgur.com/r8nKzhE.png)
 
