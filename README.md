@@ -16,7 +16,9 @@ Murmur or note from my coding life.
 - 搜尋指令/檔案的 package：`dpkg-query --search <filename or fullpath>`, `dpkg-query -S <command>` for short.
 <br />![](https://i.imgur.com/r8nKzhE.png)
 #### Advanced
+- I have no advanced skill. :pensive:
 #### Expert
+- I have no expert skill. :pensive:
 
 ## Murmurs
 ### 2019/01/06
