@@ -16,6 +16,7 @@ Murmur or note from my coding life.
 - 搜尋指令/檔案的 package：`dpkg-query --search <filename or fullpath>`, `dpkg-query -S <command>` for short.
 <br />![](https://i.imgur.com/r8nKzhE.png)
 - 隱藏每次執行 ffmpeg 時跳出的 configuration: `ffmpeg -hide_banner`
+  - or `alias ffmpeg="ffmpeg -hide_banner"`
 #### Advanced
 - I have no advanced skill. :pensive:
 #### Expert
