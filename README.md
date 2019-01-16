@@ -17,6 +17,7 @@ Murmur or note from my coding life.
 <br />![](https://i.imgur.com/r8nKzhE.png)
 - 隱藏每次執行 ffmpeg 時跳出的 configuration: `ffmpeg -hide_banner`
   - or `alias ffmpeg="ffmpeg -hide_banner"`
+- 重設 SSH Private Key 的 Passphrass: `ssh-keygen -p`
 #### Advanced
 - I have no advanced skill. :pensive:
 #### Expert
